@@ -1,0 +1,5 @@
+<clientChanPreses>
+	<clientChanPres clientCode="mobile" channel="MOB" presentation="STD" />
+	<clientChanPres clientCode="tablet" channel="TAB" presentation="STD" />
+	<clientChanPres clientCode="desktop" channel="INT" presentation="STD" />
+</clientChanPreses>
